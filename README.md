@@ -1,4 +1,4 @@
-
+[![.NET](https://github.com/th3y3m/unit-testing-using-xunit/actions/workflows/ci-script.yml/badge.svg)](https://github.com/th3y3m/unit-testing-using-xunit/actions/workflows/ci-script.yml)
 
 # Welcome to Check Prime Repository
 
