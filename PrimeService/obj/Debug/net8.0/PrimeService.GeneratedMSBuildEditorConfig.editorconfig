@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrimeService
-build_property.ProjectDir = E:\C#\unit-testing-using-dotnet-test\PrimeService\
+build_property.ProjectDir = E:\16-6\unit-testing-using-xunit\PrimeService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

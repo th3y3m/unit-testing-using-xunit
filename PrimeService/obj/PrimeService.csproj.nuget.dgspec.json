@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {}
+    "E:\\16-6\\unit-testing-using-xunit\\PrimeService\\PrimeService.csproj": {}
   },
   "projects": {
-    "E:\\C#\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+    "E:\\16-6\\unit-testing-using-xunit\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "E:\\16-6\\unit-testing-using-xunit\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "E:\\C#\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectPath": "E:\\16-6\\unit-testing-using-xunit\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+        "outputPath": "E:\\16-6\\unit-testing-using-xunit\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
